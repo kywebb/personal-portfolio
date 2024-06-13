@@ -56,16 +56,16 @@ You will find a file named `index.html` Open it and follow the guidance inscribe
 
 ```html
 <!-- Update with your name -->
-<title>Syed Mohsin's Portfolio</title>
+<title>Ky Webb's Portfolio</title>
 ```
 
 ```html
 <div class="header-textbox">
   <!-- Replace with your name & job title -->
-  <h1 class="h1">Hi, I'm Syed Mohsin Frontend Web Developer</h1>
+  <h1 class="h1">Hi, I'm Ky Webb</h1>
 
   <!-- Add a small introductory paragraph about yourself -->
-  <p class="header-text">A frontend software engineer and interface designer</p>
+  <p class="header-text">I am a Full Stack Web Developer, Software Engineer, and Cyber Security Analyst</p>
 </div>
 ```
 
